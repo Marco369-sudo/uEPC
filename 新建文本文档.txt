@@ -1,2 +1,1 @@
-使用UPC "883698113401" ;标头值"30";滤值"001";分区值"5";厂商代码"088369"
-生成EPC时出错:Index and length must refer to a location within the string.(Parameter 'length')
+
